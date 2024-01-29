@@ -1,16 +1,7 @@
-Module:			Computer Programming
+Final submission
 
-Academic Year: 		2023/24
+The portfolio folder contains all the weekly tasks alongside the weekly-exercises.
+The given Taskes are in folder Task1, Task2, and Task# as per the given instructions.
 
-Level 4: 		Semester 1
-
-Assignment Title:	Programming Portfolio
-
-Date Due: 		28th January 2024	
-
-Tutor: 			Saurav Gautam			
-
-Student Name: 		Pratham Aryal
-
-Student ID: 		77466780	
+Thank_You
 
